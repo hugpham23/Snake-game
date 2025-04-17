@@ -1,0 +1,4 @@
+﻿  11.cpp
+E:\c++\11\11\11.cpp(36,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\c++\11\11\11.cpp(150,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  11.vcxproj -> E:\c++\11\x64\Debug\11.exe
